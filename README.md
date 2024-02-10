@@ -12,6 +12,20 @@
         Candidate_tech_evaluation_candidate_copy_datascience_IpAddress_to_Country.xlsx
         fraud_holdout_no_label.csv
 
+```
+📦 
+├─ .gitignore
+├─ .ipynb_checkpoints
+│  ├─ Data science _Fraud_take_home-checkpoint.ipynb
+│  ├─ Data_engineering_Syntax_Assessment-checkpoint.ipynb
+│  └─ Fraud_EDA-checkpoint.ipynb
+├─ Data science _Fraud_take_home.ipynb
+├─ Data_engineering_Syntax_Assessment.ipynb
+├─ Fraud_EDA.ipynb
+└─ README.md
+```
+
+
 ## Data Engineering test
 - Data_engineering_Syntas_Assessment.ipynb
 - codes with dummy data in the test
