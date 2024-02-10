@@ -30,4 +30,4 @@
   - simple model to ensemble models
   - model selection and majority vote at last
 
-- **ANSWER SHEE = fraud_holdout_with_label.csv**
+- **ANSWER SHEET = fraud_holdout_with_label.csv**
