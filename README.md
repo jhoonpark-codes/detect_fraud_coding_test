@@ -4,9 +4,9 @@
 ```
 📦 
 ├─ .gitignore
-├─ Data science _Fraud_take_home.ipynb
-├─ Data_engineering_Syntax_Assessment.ipynb
-├─ Fraud_EDA.ipynb
+├─ 01_Data_engineering_Syntax_Assessment.ipynb
+├─ 02_01_Fraud_EDA.ipynb
+├─ 02_02_Data science _Fraud_take_home.ipynb
 └─ README.md
 ```
 
